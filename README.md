@@ -1,2 +1,2 @@
-# image-gallery
-This is an image gallery project 
+# Image-Gallery
+This is an Image Gallery project 
